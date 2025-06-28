@@ -1,0 +1,3 @@
+[submodule "Submodules/libraryTemplate"]
+	path = Submodules/libraryTemplate
+	url = https://github.com/zpost11/libraryTemplate.git
